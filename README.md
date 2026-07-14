@@ -2,14 +2,6 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, certifications, and contact information as a Computer Science Engineering student and aspiring Full Stack Web Developer.
 
-## 🚀 Live Demo
-(Add your GitHub Pages link here after deployment)
-
-Example:
-https://thatipamulaapsara.github.io/Web-portfolio/
-
----
-
 ## 📌 About the Project
 
 This portfolio is designed to present my:
